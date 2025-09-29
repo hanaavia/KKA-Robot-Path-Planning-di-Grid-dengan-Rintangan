@@ -4,7 +4,7 @@ Dibuat untuk menyelesaikan tugas KKA mengenai pembandingkan metode untuk menyele
 
 Anggota Kelompok :
 
-Kartika Nana Naulita (5025241021)
-Safa Mashita (5025241022)
-Devina Balqis Aurora (5025241034)
-Via Hana Nurma Putri (5025241048)
+1. Kartika Nana Naulita (5025241021)
+2. Safa Mashita (5025241022)
+3. Devina Balqis Aurora (5025241034)
+4. Via Hana Nurma Putri (5025241048)
